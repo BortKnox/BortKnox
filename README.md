@@ -22,6 +22,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BortKnox&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+![Hero](https://coolreadme.xyz/api/hacker?user=BortKnox&status=SHIPPING+CODE&accent=%2300FF88)
+![Avatar](https://coolreadme.xyz/api/avatar-card?user=BortKnox&status=BUILDING&focus=open-source&theme=dark)
+![Streak](https://coolreadme.xyz/api/cat-card?user=BortKnox&streak=42&longest=42&total=1240)
+![Project](https://coolreadme.xyz/api/projects-gallery?projects=my-project|Edge-rendered+README+cards|TypeScript|247)
 [![](https://komarev.com/ghpvc/?username=BortKnox&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
