@@ -9,7 +9,9 @@
 <a href="https://github.com/BortKnox/Cowon-a2-transformation-demo"><img src="assets/card-cowon.svg" alt="Unit 01, simulator: COWON A2 / TE Bench. The iAUDIO A2, rebuilt as a playable canvas with live Web Audio, plus a transcoder that keeps the real device useful today. HTML, Canvas, Web Audio, Python." width="48.5%"></a>
 <a href="https://github.com/BortKnox/ultron"><img src="assets/card-ultron.svg" alt="Unit 02, agent: Ultron. A desktop agent that sees the screen, speaks and operates the computer, with a custom persona and a hand-built state orb. Electron, Vue 3, TypeScript, Gemini." width="48.5%"></a>
 <a href="https://github.com/BortKnox/DMM"><img src="assets/card-dmm.svg" alt="Unit 03, tool: DMM. A dark, fast TorBox front end with source search, library, in-site player and a Stremio plugin. React, FastAPI, MongoDB, ffmpeg." width="48.5%"></a>
-<a href="https://github.com/BortKnox?tab=repositories"><img src="assets/card-slot.svg" alt="Slot 04, next build: empty on purpose. New tools land here as they ship." width="48.5%"></a>
+<a href="https://bortknox.github.io/omniroute-field-station/"><img src="assets/card-omniroute.svg" alt="Unit 04, simulator: OmniRoute Field Station. A playable map of my AI build pipeline: harness, private link, router, providers. The mind map before the tool. HTML, CSS, JS, one file." width="48.5%"></a>
+<a href="https://github.com/BortKnox?tab=repositories"><img src="assets/card-slot.svg" alt="Slot 05, next build: empty on purpose. New tools land here as they ship." width="48.5%"></a>
+<a href="https://github.com/BortKnox?tab=repositories"><img src="assets/card-slot2.svg" alt="Slot 06, next build: still on the bench. Half-built things stay private until they earn a place here." width="48.5%"></a>
 
 <img src="assets/sec-method.svg" alt="02. How things get built. House rules." width="100%">
 

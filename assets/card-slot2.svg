@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 472 244" width="472" height="244" role="img" aria-label="SLOT 06 NEXT BUILD: Still on the bench.. Half-built things stay private until they earn a place here. The bench is never empty. ">
+<title>SLOT 06 NEXT BUILD: Still on the bench.. Half-built things stay private until they earn a place here. The bench is never empty. </title>
+<defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r=".8" fill="#a6ad9c" fill-opacity=".45"/></pattern></defs>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'Cascadia Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace}
+.s{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-weight:400}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+.blink{animation:blink 1.1s steps(1,end) infinite}
+.flow{stroke-dasharray:8 30;animation:flow 1.8s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 60s linear infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-38}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="6" y="4" width="460" height="220" rx="6" fill="url(#dots)" stroke="#a5ac96" stroke-dasharray="5 5"/>
+<text class="m" x="30" y="44" font-size="9" font-weight="700" letter-spacing="1.8" fill="#242b25">SLOT 06</text>
+<text class="m" x="89.69999999999999" y="44" font-size="9" letter-spacing="1.8" fill="#63695e">NEXT BUILD</text>
+<circle class="" cx="385.8" cy="41" r="3.2" fill="#a5ac96"/>
+<text class="m" x="442" y="44" font-size="9" letter-spacing="1.4" text-anchor="end" fill="#242b25">STANDBY</text>
+<text x="30" y="94" font-size="30" font-weight="600" letter-spacing="-1.4" fill="#242b25">Still on the bench.</text>
+<text x="30" y="124" font-size="12.5" fill="#242b25" fill-opacity="0.86">Half-built things stay private until</text>
+<text x="30" y="143" font-size="12.5" fill="#242b25" fill-opacity="0.86">they earn a place here. The bench is</text>
+<text x="30" y="162" font-size="12.5" fill="#242b25" fill-opacity="0.86">never empty.</text>
+<g transform="translate(398 112)" fill="none" stroke="#63695e" stroke-width="1.4"><rect x="-34" y="-34" width="68" height="68" stroke-dasharray="4 4"/><path d="M-12 0H12M0 -12V12" stroke="#a83e1d" stroke-width="2"/></g>
+<path d="M30 182.5H442" stroke="#242b25" stroke-opacity=".3"/>
+
+<text class="m" x="442" y="208" font-size="10" font-weight="700" letter-spacing="1.6" text-anchor="end" fill="#a83e1d">REPOSITORIES →</text>
+</svg>
