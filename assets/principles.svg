@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 236" width="960" height="236" role="img" aria-label="How I build. One: one file first. Two: draw it, then code it. Three: freeze what ships. Four: port it, or cut it.">
+<title>How I build. One: one file first. Two: draw it, then code it. Three: freeze what ships. Four: port it, or cut it.</title>
+<defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r=".8" fill="#a6ad9c" fill-opacity=".45"/></pattern></defs>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'Cascadia Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace}
+.s{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-weight:400}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+.blink{animation:blink 1.1s steps(1,end) infinite}
+.flow{stroke-dasharray:8 30;animation:flow 1.8s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 60s linear infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-38}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="959" height="235" rx="8" fill="#eeede5" stroke="#aeb3a3"/>
+<rect x="1" y="1" width="958" height="234" rx="8" fill="url(#dots)"/>
+<rect x="24" y="27" width="204" height="180" rx="5" fill="#c4cbb5" stroke="#89927b"/>
+<rect x="24" y="20" width="204" height="180" rx="5" fill="#e3e6d5" stroke="#9fa68f"/>
+<circle cx="215" cy="32" r="2.2" fill="#a83e1d"/>
+<text class="s" x="42" y="88" font-size="50" fill="#a83e1d">01</text>
+<text x="42" y="126" font-size="16.5" font-weight="600" letter-spacing="-.6" fill="#242b25">One file first.</text>
+<text x="42" y="150" font-size="12" fill="#63695e">A dependency has to earn</text>
+<text x="42" y="167" font-size="12" fill="#63695e">its place.</text>
+<rect x="42" y="179" width="22" height="3" fill="#e36336"/>
+<rect x="252" y="27" width="204" height="180" rx="5" fill="#c4cbb5" stroke="#89927b"/>
+<rect x="252" y="20" width="204" height="180" rx="5" fill="#e3e6d5" stroke="#9fa68f"/>
+<circle cx="443" cy="32" r="2.2" fill="#a83e1d"/>
+<text class="s" x="270" y="88" font-size="50" fill="#a83e1d">02</text>
+<text x="270" y="126" font-size="16.5" font-weight="600" letter-spacing="-.6" fill="#242b25">Draw it, then code it.</text>
+<text x="270" y="150" font-size="12" fill="#63695e">Screens, states and signal</text>
+<text x="270" y="167" font-size="12" fill="#63695e">flow come first.</text>
+<rect x="270" y="179" width="30" height="3" fill="#e36336"/>
+<rect x="480" y="27" width="204" height="180" rx="5" fill="#c4cbb5" stroke="#89927b"/>
+<rect x="480" y="20" width="204" height="180" rx="5" fill="#e3e6d5" stroke="#9fa68f"/>
+<circle cx="671" cy="32" r="2.2" fill="#a83e1d"/>
+<text class="s" x="498" y="88" font-size="50" fill="#a83e1d">03</text>
+<text x="498" y="126" font-size="16.5" font-weight="600" letter-spacing="-.6" fill="#242b25">Freeze what ships.</text>
+<text x="498" y="150" font-size="12" fill="#63695e">Released versions stay as</text>
+<text x="498" y="167" font-size="12" fill="#63695e">they were.</text>
+<rect x="498" y="179" width="22" height="3" fill="#e36336"/>
+<rect x="708" y="27" width="204" height="180" rx="5" fill="#c4cbb5" stroke="#89927b"/>
+<rect x="708" y="20" width="204" height="180" rx="5" fill="#e3e6d5" stroke="#9fa68f"/>
+<circle cx="899" cy="32" r="2.2" fill="#a83e1d"/>
+<text class="s" x="726" y="88" font-size="50" fill="#a83e1d">04</text>
+<text x="726" y="126" font-size="16.5" font-weight="600" letter-spacing="-.6" fill="#242b25">Port it, or cut it.</text>
+<text x="726" y="150" font-size="12" fill="#63695e">If it cannot run on the</text>
+<text x="726" y="167" font-size="12" fill="#63695e">hardware, it goes.</text>
+<rect x="726" y="179" width="30" height="3" fill="#e36336"/>
+</svg>
