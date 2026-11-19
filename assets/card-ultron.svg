@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 472 244" width="472" height="244" role="img" aria-label="UNIT 02 AGENT: Ultron. A desktop agent that sees the screen, speaks and operates the computer. Custom persona and a hand-built state orb. ELECTRON · VUE 3 · TYPESCRIPT · GEMINI">
+<title>UNIT 02 AGENT: Ultron. A desktop agent that sees the screen, speaks and operates the computer. Custom persona and a hand-built state orb. ELECTRON · VUE 3 · TYPESCRIPT · GEMINI</title>
+<defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r=".8" fill="#a6ad9c" fill-opacity=".45"/></pattern></defs>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'Cascadia Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace}
+.s{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-weight:400}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+.blink{animation:blink 1.1s steps(1,end) infinite}
+.flow{stroke-dasharray:8 30;animation:flow 1.8s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 60s linear infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-38}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="6" y="11" width="460" height="220" rx="6" fill="#c4cbb5" stroke="#89927b"/>
+<rect x="6" y="4" width="460" height="220" rx="6" fill="#f6f6ef" stroke="#9fa68f"/>
+<circle cx="17" cy="15" r="2.2" fill="#a83e1d"/>
+<circle cx="455" cy="15" r="2.2" fill="#a83e1d"/>
+<circle cx="6" cy="114.0" r="5" fill="#34412c" stroke="#c4ccb9" stroke-width="2"/>
+<circle cx="466" cy="114.0" r="5" fill="#34412c" stroke="#c4ccb9" stroke-width="2"/>
+<text class="m" x="30" y="44" font-size="9" font-weight="700" letter-spacing="1.8" fill="#242b25">UNIT 02</text>
+<text class="m" x="89.69999999999999" y="44" font-size="9" letter-spacing="1.8" fill="#63695e">AGENT</text>
+<circle class="pulse" cx="339.6" cy="41" r="3.2" fill="#45684b"/>
+<text class="m" x="442" y="44" font-size="9" letter-spacing="1.4" text-anchor="end" fill="#242b25">ACTIVE · 0.2.3</text>
+<text x="30" y="94" font-size="30" font-weight="600" letter-spacing="-1.4" fill="#242b25">Ultron</text>
+<text x="30" y="124" font-size="12.5" fill="#242b25" fill-opacity="0.86">A desktop agent that sees the screen, speaks</text>
+<text x="30" y="143" font-size="12.5" fill="#242b25" fill-opacity="0.86">and operates the computer. Custom persona</text>
+<text x="30" y="162" font-size="12.5" fill="#242b25" fill-opacity="0.86">and a hand-built state orb.</text>
+<g transform="translate(398 112)" fill="none" stroke="#242b25" stroke-width="1.3"><circle r="46"/><circle r="34" stroke-dasharray="2 4" stroke="#63695e"/><ellipse rx="46" ry="15" transform="rotate(-24)"/><ellipse rx="46" ry="15" transform="rotate(34)"/><path d="M-56 0H56M0 -56V56" stroke="#63695e" stroke-opacity=".6"/><rect x="-8" y="-8" width="16" height="16" fill="#f6f6ef"/><rect x="-3.5" y="-3.5" width="7" height="7" fill="#e36336" stroke="none"/><circle cx="41" cy="-20" r="3.4" fill="#f6f6ef"/><circle cx="-36" cy="27" r="3.4" fill="#f6f6ef"/></g>
+<path d="M30 182.5H442" stroke="#242b25" stroke-opacity=".3"/>
+<rect x="30" y="194" width="66.4" height="20" fill="none" stroke="#242b25" stroke-opacity=".55"/>
+<text class="m" x="38" y="207.5" font-size="9" letter-spacing=".9" fill="#242b25">ELECTRON</text>
+<rect x="104.4" y="194" width="47.5" height="20" fill="none" stroke="#242b25" stroke-opacity=".55"/>
+<text class="m" x="112.4" y="207.5" font-size="9" letter-spacing=".9" fill="#242b25">VUE 3</text>
+<rect x="159.9" y="194" width="79.0" height="20" fill="none" stroke="#242b25" stroke-opacity=".55"/>
+<text class="m" x="167.9" y="207.5" font-size="9" letter-spacing=".9" fill="#242b25">TYPESCRIPT</text>
+<rect x="246.9" y="194" width="53.8" height="20" fill="none" stroke="#242b25" stroke-opacity=".55"/>
+<text class="m" x="254.9" y="207.5" font-size="9" letter-spacing=".9" fill="#242b25">GEMINI</text>
+<text class="m" x="442" y="208" font-size="10" font-weight="700" letter-spacing="1.6" text-anchor="end" fill="#a83e1d">OPEN →</text>
+</svg>

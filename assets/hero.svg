@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 430" width="960" height="430" role="img" aria-label="BortKnox. Small machines, carefully built. Single-file tools, hardware simulators and desktop agents.">
+<title>BortKnox. Small machines, carefully built. Single-file tools, hardware simulators and desktop agents.</title>
+<defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r=".8" fill="#a6ad9c" fill-opacity=".45"/></pattern></defs>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'Cascadia Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace}
+.s{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-weight:400}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+.blink{animation:blink 1.1s steps(1,end) infinite}
+.flow{stroke-dasharray:8 30;animation:flow 1.8s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 60s linear infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-38}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="959" height="429" rx="10" fill="#eeede5" stroke="#aeb3a3"/>
+<rect x="1" y="1" width="958" height="428" rx="10" fill="url(#dots)"/>
+<defs><linearGradient id="mh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fafaf4"/><stop offset="1" stop-color="#f0f1e8"/></linearGradient><clipPath id="clip"><rect x=".5" y=".5" width="959" height="429" rx="10"/></clipPath></defs>
+<g clip-path="url(#clip)"><rect x="0" y="0" width="960" height="56" fill="url(#mh)"/></g>
+<path d="M1 56.5H959" stroke="#c9ccbd"/>
+<rect x="26" y="14" width="28" height="28" fill="#eeede5" stroke="#242b25" stroke-width="2.4"/>
+<rect x="35" y="23" width="10" height="10" fill="#e36336"/>
+<text x="68" y="35" font-size="22" font-weight="700" letter-spacing="-1" fill="#242b25">BortKnox</text>
+<text class="m" x="176" y="33" font-size="9" letter-spacing="1.6" fill="#63695e">WORKSHOP · AUSTRALIA</text>
+<circle class="pulse" cx="770" cy="28" r="3.2" fill="#45684b"/>
+<text class="m" x="934" y="32" font-size="9" letter-spacing="1.2" text-anchor="end" fill="#242b25">ONLINE · ED. 2026.11</text>
+<text x="48" y="112" font-size="16" fill="#e36336">+</text>
+<text class="m" x="68" y="111" font-size="10" font-weight="700" letter-spacing="1.8" fill="#242b25">FIELD STATION / PERSONAL BUILD LOG</text>
+<text x="44" y="196" font-size="82" font-weight="600" letter-spacing="-5" fill="#242b25">Small machines,</text>
+<text x="44" y="278" font-size="82" font-weight="600" letter-spacing="-4" fill="#242b25"><tspan class="s" fill="#a83e1d" letter-spacing="-3">carefully</tspan> built.</text>
+<text x="48" y="326" font-size="16" fill="#242b25">Single-file tools, hardware simulators and desktop agents,</text>
+<text x="48" y="348" font-size="16" fill="#63695e">designed before they are coded and released in the open.</text>
+<g transform="rotate(12 826 218)">
+<circle cx="826" cy="218" r="74" fill="none" stroke="#45684b" stroke-width="1.2"/>
+<circle cx="826" cy="218" r="48" fill="none" stroke="#45684b" stroke-width="1" stroke-dasharray="2 4"/>
+<defs><path id="ring" d="M766 218a60 60 0 1 1 120 0a60 60 0 1 1 -120 0"/></defs>
+<g class="spin"><text class="m" font-size="9" letter-spacing="3.1" fill="#45684b"><textPath href="#ring" xlink:href="#ring">AUSTRALIA · SHIPPING QUIETLY · BK-01 · BENCH BUILT ·</textPath></text></g>
+<text class="s" x="826" y="231" font-size="40" text-anchor="middle" fill="#45684b">bk</text>
+</g>
+<path d="M26.5 372v11M38.5 372v6M50.5 372v6M62.5 372v6M74.5 372v6M86.5 372v11M98.5 372v6M110.5 372v6M122.5 372v6M134.5 372v6M146.5 372v11M158.5 372v6M170.5 372v6M182.5 372v6M194.5 372v6M206.5 372v11M218.5 372v6M230.5 372v6M242.5 372v6M254.5 372v6M266.5 372v11M278.5 372v6M290.5 372v6M302.5 372v6M314.5 372v6M326.5 372v11M338.5 372v6M350.5 372v6M362.5 372v6M374.5 372v6M386.5 372v11M398.5 372v6M410.5 372v6M422.5 372v6M434.5 372v6M446.5 372v11M458.5 372v6M470.5 372v6M482.5 372v6M494.5 372v6M506.5 372v11M518.5 372v6M530.5 372v6M542.5 372v6M554.5 372v6M566.5 372v11M578.5 372v6M590.5 372v6M602.5 372v6M614.5 372v6M626.5 372v11M638.5 372v6M650.5 372v6M662.5 372v6M674.5 372v6M686.5 372v11M698.5 372v6M710.5 372v6M722.5 372v6M734.5 372v6M746.5 372v11M758.5 372v6M770.5 372v6M782.5 372v6M794.5 372v6M806.5 372v11M818.5 372v6M830.5 372v6M842.5 372v6M854.5 372v6M866.5 372v11M878.5 372v6M890.5 372v6M902.5 372v6M914.5 372v6M926.5 372v11" stroke="#242b25" stroke-width="1" fill="none"/>
+<g class="m" font-size="9" letter-spacing="1.8" fill="#242b25">
+<text x="26" y="408">SIMULATORS</text>
+<rect x="117.0" y="400" width="6" height="6" fill="#e36336"/>
+<text x="134.0" y="408">AGENTS</text>
+<rect x="190.6" y="400" width="6" height="6" fill="#e36336"/>
+<text x="207.6" y="408">TRANSCODERS</text>
+<rect x="307.2" y="400" width="6" height="6" fill="#e36336"/>
+<text x="324.2" y="408">TOOLS</text>
+<rect x="372.2" y="400" width="6" height="6" fill="#e36336"/>
+<text x="389.2" y="408">FIRMWARE IDEAS</text>
+</g>
+<text class="m" x="934" y="408" font-size="9" letter-spacing="1.6" text-anchor="end" fill="#63695e">SHEET 1 OF 1</text>
+</svg>
