@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 472 244" width="472" height="244" role="img" aria-label="SLOT 04 NEXT BUILD: Empty, on purpose.. New tools land here as they ship. Watch the repositories tab for the next one. ">
-<title>SLOT 04 NEXT BUILD: Empty, on purpose.. New tools land here as they ship. Watch the repositories tab for the next one. </title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 472 244" width="472" height="244" role="img" aria-label="SLOT 05 NEXT BUILD: Empty, on purpose.. New tools land here as they ship. Watch the repositories tab for the next one. ">
+<title>SLOT 05 NEXT BUILD: Empty, on purpose.. New tools land here as they ship. Watch the repositories tab for the next one. </title>
 <defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r=".8" fill="#a6ad9c" fill-opacity=".45"/></pattern></defs>
 <style>
 text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
@@ -16,7 +16,7 @@ text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
 <rect x="6" y="4" width="460" height="220" rx="6" fill="url(#dots)" stroke="#a5ac96" stroke-dasharray="5 5"/>
-<text class="m" x="30" y="44" font-size="9" font-weight="700" letter-spacing="1.8" fill="#242b25">SLOT 04</text>
+<text class="m" x="30" y="44" font-size="9" font-weight="700" letter-spacing="1.8" fill="#242b25">SLOT 05</text>
 <text class="m" x="89.69999999999999" y="44" font-size="9" letter-spacing="1.8" fill="#63695e">NEXT BUILD</text>
 <circle class="" cx="385.8" cy="41" r="3.2" fill="#a5ac96"/>
 <text class="m" x="442" y="44" font-size="9" letter-spacing="1.4" text-anchor="end" fill="#242b25">STANDBY</text>
